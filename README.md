@@ -33,7 +33,7 @@ $ python file_integrity_monitor.py check test_dir
 ## ⚙️ Установка
 
 ```bash
-git clone https://github.com/username/file-integrity-monitor.git
+git clone https://github.com/ilya0088/file-integrity-monitor.git
 cd file-integrity-monitor
 ```
 
